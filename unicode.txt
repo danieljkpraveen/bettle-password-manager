@@ -1,0 +1,11 @@
+arrow1 - ➤
+arrow2 - ▶
+tick - ✅
+cross - ❎
+warning - ⚠
+no entry - 🚫
+exclamation - ❗
+hourglass - ⌛
+magnify class - 🔍
+package - 📦
+corss - ❌

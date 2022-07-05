@@ -1,0 +1,1 @@
+APPS = ['model_config']
